@@ -46,6 +46,8 @@ Each section is built to show off real implementations and UI previews.
 👉 Check out all my public repositories here:  
 [**https://github.com/BxJaden**](https://github.com/BxJaden)
 
+👉 Do you like my work? You can [Buy me a Coffee](https://buymeacoffee.com/bxjaden524?new=1)!
+
 ---
 
 ## 📬 Contact
