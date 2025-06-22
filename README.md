@@ -1,16 +1,59 @@
-## Hi there 👋
+# 💼 Hi There! I'm BxJaden524
 
-<!--
-**BxJaden/BxJaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **my official github** — a showcase of my work across platforms like **Discord**, **Roblox**, **FiveM**, and more.  
+This repository contains **my personal projects**, **original code**, and **custom designs** built over 6+ years of development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm **Jaden**, a passionate **Discord bot developer** and **multi-platform programmer**. I specialize in:
+
+- ⚙️ **JavaScript** (my main language)
+- 🌐 HTML / CSS
+- 🐍 Python
+- 🧱 LUA (especially for FiveM)
+- 🔷 C#
+
+Whether it's building bots, APIs, or game-enhancing tools, I focus on performance, polish, and creativity.
+
+---
+
+## 📌 Important Notice
+
+> **This is MY one and ONLY Github.**  
+> If you clone, fork, or reuse this repository, **you are legally required to change or remove any personal information, assets, or branding** that belongs to me.  
+>  
+> Respect the work. Respect the dev. 🤝
+
+---
+
+## 📂 Project Highlights
+
+You'll find projects in categories like:
+
+- 🛠️ **Discord Bots** – Custom moderation, utilities, and fun bots.
+- 🎮 **FiveM Scripts** – From RP enhancements to backend services.
+- 🧩 **Roblox Add-ons** – GUI tools, quality-of-life mods, and more.
+- 🌍 **Web Tools** – Interactive front-end utilities and dashboards.
+
+Each section is built to show off real implementations and UI previews.
+
+---
+
+## 🔗 Explore More
+
+👉 Check out all my public repositories here:  
+[**https://github.com/BxJaden**](https://github.com/BxJaden)
+
+---
+
+## 📬 Contact
+
+Want a commission or collab?  
+You can email me at jaden@discotech.online leaving relevant details to yourself and your project.
+
+Let’s build something awesome.
+
+---
+
